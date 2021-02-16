@@ -13,7 +13,13 @@ npm install
 ## Usage
 
 ```bash
-npm run test
+npm test
+```
+
+## run specific test
+
+```bash
+npm test test1.js
 ```
 
 ## Contributing
